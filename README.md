@@ -27,6 +27,13 @@ A clean and responsive timer app built with **React**, styled with **CSS**, and 
 
 ---
 
+## Running
+
+```bash
+npm run dev
+```
+---
+
 ## 🧪 Running Tests
 
 This project uses **Vitest** with `jsdom` for DOM simulation.
