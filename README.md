@@ -2,6 +2,9 @@
 
 A clean and responsive timer app built with **React**, styled with **CSS**, and tested using **Vitest**. This project demonstrates how to manage state with hooks, simulate timers, and write effective unit tests.
 
+<img width="1247" height="761" alt="image" src="https://github.com/user-attachments/assets/f24d7107-1114-43ac-9707-f87590a57702" />
+
+
 ---
 
 ## 📦 Tech Stack
