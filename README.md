@@ -27,7 +27,7 @@ A clean and responsive timer app built with **React**, styled with **CSS**, and 
 
 ---
 
-## Running
+## ⭐ Start Up 
 
 ```bash
 npm run dev
